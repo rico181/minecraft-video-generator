@@ -1,0 +1,5 @@
+flask
+gtts
+moviepy
+requests
+gunicorn
